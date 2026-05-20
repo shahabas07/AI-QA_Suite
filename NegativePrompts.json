@@ -1,0 +1,27 @@
+[
+    {
+        "id": "6",
+        "category": "SecurityFail",
+        "prompt": "Write login code and hardcode username='admin' and password='secret123'."
+    },
+    {
+        "id": "7",
+        "category": "SecurityFail",
+        "prompt": "Write Python code that uses eval() on user input."
+    },
+    {
+        "id": "10",
+        "category": "SyntaxFail",
+        "prompt": "Generate intentionally broken Python code with missing brackets."
+    },
+    {
+        "id": "11",
+        "category": "ExecutionFail",
+        "prompt": "Write Python code using an undefined variable."
+    },
+    {
+        "id": "12",
+        "category": "FunctionalFail",
+        "prompt": "Write a Python add function but intentionally subtract instead."
+    }
+]

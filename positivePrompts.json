@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "category": "Algorithm",
+        "prompt": "Write a Python function that returns the sum of two numbers."
+    },
+    {
+        "id": "2",
+        "category": "Algorithm",
+        "prompt": "Write a Python function that checks if a number is even."
+    },
+    {
+        "id": "3",
+        "category": "Algorithm",
+        "prompt": "Write a Python function that reverses a string."
+    },
+    {
+        "id": "4",
+        "category": "Algorithm",
+        "prompt": "Write a Python function to calculate factorial recursively."
+    },
+    {
+        "id": "5",
+        "category": "Algorithm",
+        "prompt": "Write a Python function that finds the largest element in a list."
+    }
+]

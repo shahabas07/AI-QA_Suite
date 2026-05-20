@@ -1,0 +1,17 @@
+# Environments
+venv/
+.env
+
+# Python Caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest Caches
+.pytest_cache/
+
+# Generated Outputs
+generated_outputs/
+
+# Test Reports
+reports/
