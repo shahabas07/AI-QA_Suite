@@ -1,4 +1,4 @@
-# AI QA Suite (MVP)
+# AI QA Suite (MVP) .
 
 A lightweight Pytest-driven framework that automatically fetches code from AI models into memory and deterministically validates it against security flaws, syntax errors, and adversarial prompts — without executing arbitrary machine code unsafely.
 
