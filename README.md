@@ -95,3 +95,5 @@ OPENROUTER_API_KEY=sk-or-v1-YOUR_KEY_HERE
 # 3. Run the full suite
 pytest tests/ -v -s --html=reports/report.html
 ```
+
+test
