@@ -19,7 +19,7 @@ jobs:
     steps:
       - name: Trigger Pong Workflow in Nex-Agentic-Supply-Chain-Intelligence-Platform
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.CROSS_REPO_PAT }}
         run: |
           gh api \
             --method POST \
